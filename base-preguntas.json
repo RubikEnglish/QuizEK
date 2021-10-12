@@ -1,0 +1,41 @@
+[
+{
+    "categoria": "Vocabulario",
+    "pregunta": "¿Comó se llama el cuento?",
+    "respuesta":"El emperador y la cometa",
+    "incorrecta1": "La princesa",
+    "incorrecta2": "La cometa",
+    "incorrecta3": "El rey cometa",
+    "imagen": "./news1.jpg",
+    "object_fit": "cover"
+
+},
+
+{
+    "categoria": "Vocabulario",
+    "pregunta": "¿Que significa sun en inglés?",
+    "respuesta":"sol",
+    "incorrecta1": "hijo",
+    "incorrecta2": "cometa",
+    "incorrecta3": "rey",
+    "imagen": "./news2.jpg",
+    "object_fit": "cover"
+
+},
+
+{
+    "categoria": "Vocabulario",
+    "pregunta": "¿Que significa moon en inglés?",
+    "respuesta":"luna",
+    "incorrecta1": "princesa",
+    "incorrecta2": "hija",
+    "incorrecta3": "estrella",
+    "imagen": "./news3.jpg",
+    "object_fit": "cover"
+
+}
+
+
+
+]
+
